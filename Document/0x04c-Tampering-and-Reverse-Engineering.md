@@ -3,7 +3,7 @@ masvs_category: MASVS-RESILIENCE
 platform: all
 ---
 
-# Mobile App Tampering and Reverse Engineering
+# Mobile App Tampering and Reverse Engineering v2
 
 Reverse engineering and tampering techniques have long belonged to the realm of crackers, modders, malware analysts, etc. For "traditional" security testers and researchers, reverse engineering has been more of a complementary skill. But the tides are turning: mobile app black-box testing increasingly requires disassembling compiled apps, applying patches, and tampering with binary code or even live processes. The fact that many mobile apps implement defenses against unwelcome tampering doesn't make things easier for security testers.
 
